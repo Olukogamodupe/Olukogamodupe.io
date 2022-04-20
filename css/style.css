@@ -53,4 +53,14 @@ flex-basis:74.8%;
     background-color: #dfb07e;
 }
 
-
+@media screen and (max-width:480px) {
+  .wrapper{
+    width:100%;
+  } 
+  .double{
+    width:24.5%;
+  }
+  .triple {
+    width:24.5%;
+}
+  
